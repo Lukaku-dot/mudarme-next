@@ -11,6 +11,36 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.mudarme.com.ar/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/blog/cuanto-cuesta-una-mudanza-en-buenos-aires</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/blog/checklist-para-mudarse</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/blog/como-elegir-empresa-de-mudanzas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/blog/mudanzas-a-fin-de-mes</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/blog/guardamuebles-cuando-conviene</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.mudarme.com.ar/mudanzas-palermo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -26,7 +56,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.mudarme.com.ar/mudanzas-san-isidro</loc>
+    <loc>https://www.mudarme.com.ar/mudanzas-recoleta</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -36,12 +66,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.mudarme.com.ar/mudanzas-recoleta</loc>
+    <loc>https://www.mudarme.com.ar/mudanzas-villa-urquiza</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.mudarme.com.ar/mudanzas-villa-urquiza</loc>
+    <loc>https://www.mudarme.com.ar/mudanzas-san-isidro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
