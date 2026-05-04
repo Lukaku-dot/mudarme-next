@@ -54,14 +54,7 @@ const Testimonials = () => {
           <span className="text-gray-400 text-sm">en Google</span>
         </div>
         <div className="flex justify-center mb-10">
-          
-            href="https://www.google.com/maps/place/La+Mudanza"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-orange-400 text-sm hover:underline"
-          >
-            Ver todas las reseñas en Google
-          </a>
+          <a href="https://www.google.com/maps/place/La+Mudanza" target="_blank" rel="noopener noreferrer" className="text-orange-400 text-sm hover:underline">Ver todas las reseñas en Google</a>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 min-h-[240px]">
