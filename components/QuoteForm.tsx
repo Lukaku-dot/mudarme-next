@@ -51,11 +51,11 @@ const QuoteForm = () => {
               Te responderemos a la brevedad. También podés llamarnos directamente.
             </p>
             <a
-              href="tel:+541146375500"
+              href="tel:+54111125535500"
               className="bg-gradient-brand text-primary-foreground px-8 py-3 rounded-lg font-semibold inline-flex items-center gap-2 shadow-brand"
             >
               <Phone className="w-4 h-4" />
-              4637-5500
+              11-2553-5500
             </a>
           </div>
         </div>
@@ -94,7 +94,7 @@ const QuoteForm = () => {
                 </div>
               </a>
               <a
-                href="tel:+541146375500"
+                href="tel:+54111125535500"
                 className="flex items-center gap-4 p-4 bg-card border border-border rounded-xl hover:border-primary/50 transition-colors"
               >
                 <div className="w-12 h-12 bg-gradient-brand rounded-lg flex items-center justify-center">
@@ -102,7 +102,7 @@ const QuoteForm = () => {
                 </div>
                 <div>
                   <p className="font-semibold">Teléfono fijo</p>
-                  <p className="text-muted-foreground">4637-5500</p>
+                  <p className="text-muted-foreground">11-2553-5500</p>
                 </div>
               </a>
               <a

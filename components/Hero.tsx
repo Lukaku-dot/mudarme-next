@@ -50,11 +50,11 @@ const Hero = () => {
               Cotizar por WhatsApp
             </a>
             <a
-              href="tel:+541146375500"
+              href="tel:+54111125535500"
               className="border-2 border-primary text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-primary hover:text-primary-foreground transition-all flex items-center justify-center gap-3"
             >
               <Phone className="w-5 h-5" />
-              4637-5500
+              11-2553-5500
             </a>
           </div>
 
