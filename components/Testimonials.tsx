@@ -85,7 +85,7 @@ const Testimonials = () => {
           <button onClick={prev} className="bg-zinc-800 border border-zinc-700 text-white w-10 h-10 rounded-full hover:border-orange-500 hover:text-orange-500 transition-colors flex items-center justify-center text-lg">&#8592;</button>
           <div className="flex gap-2">
             {Array.from({length: total}).map((_, i) => (
-              <button key={i} onClick={() => { setAuto(false); setCurrent(i); }} className={`w-2.5 h-2.5 rounded-full transition-colors ${i === current ? "bg-orange-500" : "bg-zinc-600"}`} />
+              <button key={i} onClick={() => { setAuto(false); setCurrent(i); }} className={`rounded-full transition-all ${i === current ? "w-4 h-4 bg-orange-500" : "w-3 h-3 bg-zinc-500 hover:bg-zinc-400"}`} />
             ))}
           </div>
           <button onClick={next} className="bg-zinc-800 border border-zinc-700 text-white w-10 h-10 rounded-full hover:border-orange-500 hover:text-orange-500 transition-colors flex items-center justify-center text-lg">&#8594;</button>
