@@ -11,6 +11,31 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://www.mudarme.com.ar/mudanzas-residenciales</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/mudanzas-comerciales</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/embalaje-profesional</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/mudanzas-interior</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.mudarme.com.ar/izajes</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://www.mudarme.com.ar/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
