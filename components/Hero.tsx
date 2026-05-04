@@ -22,8 +22,8 @@ const Hero = () => {
             decoding="async"
           />
         </picture>
-        <div className="absolute inset-0 bg-background/80" />
-        <div className="absolute inset-0 bg-gradient-to-r from-background via-background/60 to-transparent" />
+        <div className="absolute inset-0 bg-black/70" />
+        <div className="absolute inset-0 bg-gradient-to-r from-black via-black/60 to-transparent" />
       </div>
 
       <div className="container mx-auto px-4 relative z-10 pt-24">
